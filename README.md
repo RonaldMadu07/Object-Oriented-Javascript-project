@@ -37,7 +37,6 @@ Here are some of the key features and projects included in this repository:
     Real-World Use Cases
         Mini-projects that apply OOP concepts to solve real-world problems.
 
-Add specific project details here if applicable.
 Technologies Used
 
 This repository primarily uses the following technologies:
